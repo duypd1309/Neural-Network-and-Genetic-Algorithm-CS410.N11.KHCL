@@ -1,0 +1,16 @@
+problem_size = 20; fitness_func = onemax; crossover_method = UX
+# MRPS  # num_evaluations  # random_seed
+44 475.2 19521432
+36 367.2 19521442
+34 360.4 19521452
+30 306.0 19521462
+24 266.4 19521472
+44 448.8 19521482
+24 259.2 19521492
+28 285.6 19521502
+32 336.0 19521512
+36 367.2 19521522
+MRPS of 10 successful bisections: [44, 36, 34, 30, 24, 44, 24, 28, 32, 36]
+num_evaluations of 10 successful bisections: [475.2, 367.2, 360.4, 306.0, 266.4, 448.8, 259.2, 285.6, 336.0, 367.2]
+Mean and std of MRPS: 33.200 6.765
+Mean and std of num_evaluations: 347.200 68.972

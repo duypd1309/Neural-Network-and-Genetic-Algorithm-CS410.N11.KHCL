@@ -1,0 +1,16 @@
+problem_size = 160; fitness_func = trap_5; crossover_method = UX
+# MRPS  # num_evaluations  # random_seed
+0 0 19521432
+0 0 19521442
+0 0 19521452
+0 0 19521462
+0 0 19521472
+0 0 19521482
+0 0 19521492
+0 0 19521502
+0 0 19521512
+0 0 19521522
+MRPS of 10 successful bisections: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+num_evaluations of 10 successful bisections: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Mean and std of MRPS: 0.000 0.000
+Mean and std of num_evaluations: 0.000 0.000
