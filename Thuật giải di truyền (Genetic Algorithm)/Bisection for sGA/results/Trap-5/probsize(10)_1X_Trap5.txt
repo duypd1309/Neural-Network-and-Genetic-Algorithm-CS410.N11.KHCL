@@ -1,0 +1,16 @@
+problem_size = 10; fitness_func = trap_5; crossover_method = 1X
+# MRPS  # num_evaluations  # random_seed
+128 1164.8 19521432
+136 1047.2 19521442
+136 1183.2 19521452
+104 936.0 19521462
+120 1056.0 19521472
+136 1237.6 19521482
+136 1088.0 19521492
+136 1196.8 19521502
+88 809.6 19521512
+128 1113.6 19521522
+MRPS of 10 successful bisections: [128, 136, 136, 104, 120, 136, 136, 136, 88, 128]
+num_evaluations of 10 successful bisections: [1164.8, 1047.2, 1183.2, 936.0, 1056.0, 1237.6, 1088.0, 1196.8, 809.6, 1113.6]
+Mean and std of MRPS: 124.800 15.677
+Mean and std of num_evaluations: 1083.280 123.657
